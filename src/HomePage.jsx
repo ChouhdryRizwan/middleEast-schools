@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 import { useNavigate } from 'react-router-dom';
+import Select2 from "react-select2-wrapper";
 
 const HomePage = () => {
   const navigate = useNavigate();
@@ -28,16 +29,22 @@ const HomePage = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    if (selectedCountry) {
+    const countryExists = middleEastCountries.some(
+      (country) => country.toLowerCase() == selectedCountry.toLowerCase()
+    );
+
+    if (countryExists || selectedCountry === 'All') {
       navigate(`/schools/${selectedCountry}`);
+    } else {
+      alert('Error: The selected country is not in the Middle East list. Please choose a valid country.');
     }
   };
 
   return (
-    <div className="flex flex-col justify-center items-center h-screen bg-blue-500">
-      <h1 className="text-4xl font-bold text-white mb-8">Schools in Middle East</h1>
-      <form onSubmit={handleSubmit} className="bg-white p-8 rounded shadow-md w-1/3">
-        <h2 className="text-2xl font-bold mb-6 text-center">Select Country</h2>
+    <div className="flex flex-col justify-center items-center min-h-screen bg-blue-500 p-4">
+      <h1 className="text-3xl md:text-4xl font-bold text-white mb-8 text-center">Schools in Middle East</h1>
+      <form onSubmit={handleSubmit} className="bg-white p-6 md:p-8 rounded shadow-md w-full max-w-md">
+        <h2 className="text-xl md:text-2xl font-bold mb-6 text-center">Select Country</h2>
         <div className="mb-4">
           <label className="block text-gray-700 text-sm font-bold mb-2" htmlFor="region-select">
             Region
