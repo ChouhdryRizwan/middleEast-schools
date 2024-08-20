@@ -1,0 +1,4650 @@
+[
+    {
+        "Count": 1,
+        "Name": "The British International School of Jeddah",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "https://bis-jeddah.com/"
+    },
+    {
+        "Count": 2,
+        "Name": "International Programs School",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "https://www.ipsksa.com/"
+    },
+    {
+        "Count": 3,
+        "Name": "Integrated Indian School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://www.integratedindianschool.org/"
+    },
+    {
+        "Count": 4,
+        "Name": "The English Academy",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.tea.edu.kw/"
+    },
+    {
+        "Count": 5,
+        "Name": "Al Ittihad Private School Mamzar",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 6,
+        "Name": "Al Noor International School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://www.alnischool.com/"
+    },
+    {
+        "Count": 7,
+        "Name": "Nord Anglia International School Al Khor",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.nordangliaeducation.com/our-schools/al-khor"
+    },
+    {
+        "Count": 8,
+        "Name": "GEMS Metropole School - Motor City",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsmetropoleschool-dubai.com/"
+    },
+    {
+        "Count": 9,
+        "Name": "GEMS First Point School - The Villa",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsfirstpointschool-dubai.com"
+    },
+    {
+        "Count": 10,
+        "Name": "Horizon English School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://horizonschooldubai.com/"
+    },
+    {
+        "Count": 11,
+        "Name": "Al-Bayan Bilingual School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.bbs.edu.kw/"
+    },
+    {
+        "Count": 12,
+        "Name": "GEMS Founders School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsfoundersschool-dubai.com"
+    },
+    {
+        "Count": 13,
+        "Name": "Dove Green Private School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://dovegreenschool.com/"
+    },
+    {
+        "Count": 14,
+        "Name": "Swiss International School Of Qatar",
+        "Country": "Qatar",
+        "City": "N/A",
+        "Website": "http://sisq.qa"
+    },
+    {
+        "Count": 15,
+        "Name": "Newton British Academy Al Dafna",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://nbaaldafna.newtonschools.sch.qa/"
+    },
+    {
+        "Count": 16,
+        "Name": "Al Yasat Private School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.alyasat-school.com/en/"
+    },
+    {
+        "Count": 17,
+        "Name": "Bright Riders School Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://brightridersdubai.com/"
+    },
+    {
+        "Count": 18,
+        "Name": "Creative Children International School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.ccis-kuwait.com/"
+    },
+    {
+        "Count": 19,
+        "Name": "Capital School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.capitalschooluae.com/"
+    },
+    {
+        "Count": 20,
+        "Name": "Jeddah Knowledge International School",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "https://www.jks.edu.sa"
+    },
+    {
+        "Count": 21,
+        "Name": "Al-Bassam Schools",
+        "Country": "Saudi Arabia",
+        "City": "Dammam",
+        "Website": "N/A"
+    },
+    {
+        "Count": 22,
+        "Name": "The British School Al Khubairat",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.britishschool.sch.ae/"
+    },
+    {
+        "Count": 23,
+        "Name": "Al Ain Academy",
+        "Country": "United Arab Emirates",
+        "City": "Al Ain",
+        "Website": "http://www.alaininternational.sch.ae"
+    },
+    {
+        "Count": 24,
+        "Name": "Arcadia School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 25,
+        "Name": "The Spanish School of Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://spanishschool.ae/"
+    },
+    {
+        "Count": 26,
+        "Name": "Swiss International School Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.sisq.qa/"
+    },
+    {
+        "Count": 27,
+        "Name": "Khaled International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "http://www.kis-riyadh.com/"
+    },
+    {
+        "Count": 28,
+        "Name": "Multinational School Bahrain",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://mns-bahrain.com/"
+    },
+    {
+        "Count": 29,
+        "Name": "Dasman Bilingual School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://dbs.edu.kw/"
+    },
+    {
+        "Count": 30,
+        "Name": "Arabian Pearl Gulf School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://www.apgschool.com/"
+    },
+    {
+        "Count": 31,
+        "Name": "TLC International School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.tlcoman.edu.om/"
+    },
+    {
+        "Count": 32,
+        "Name": "International Community School - Mushrif Campus",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.icschool-uae.com/index.php/en/ics-almushrif"
+    },
+    {
+        "Count": 33,
+        "Name": "Gulf English School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.ges.edu.kw/"
+    },
+    {
+        "Count": 34,
+        "Name": "Next Generation School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://nextgenerationschool.ae/"
+    },
+    {
+        "Count": 35,
+        "Name": "The American Baccalaureate School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.abs.edu.kw/"
+    },
+    {
+        "Count": 36,
+        "Name": "Arrowad International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://ais.sch.sa/"
+    },
+    {
+        "Count": 37,
+        "Name": "The International School of Choueifat \u2013 Manama",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "N/A"
+    },
+    {
+        "Count": 38,
+        "Name": "Canadian International School - Amman",
+        "Country": "Jordan",
+        "City": "N/A",
+        "Website": "https://www.cis.edu.jo"
+    },
+    {
+        "Count": 39,
+        "Name": "Dream International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "http://dream-schools.com.sa/"
+    },
+    {
+        "Count": 40,
+        "Name": "Qatar Academy Doha",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://qataracademy.edu.qa/"
+    },
+    {
+        "Count": 41,
+        "Name": "AMA International School, Bahrain",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://www.amais.edu.bh/"
+    },
+    {
+        "Count": 42,
+        "Name": "German International School Sharjah",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.dssharjah.org/"
+    },
+    {
+        "Count": 43,
+        "Name": "Al Mahd International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://amis.qa/"
+    },
+    {
+        "Count": 44,
+        "Name": "Cambridge English School Hawally",
+        "Country": "Kuwait",
+        "City": "N/A",
+        "Website": "http://www.marefa-education.com"
+    },
+    {
+        "Count": 45,
+        "Name": "Future Bilingual School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.fbs.edu.kw/"
+    },
+    {
+        "Count": 46,
+        "Name": "International School of Choueifat \u2013 Erbil",
+        "Country": "Iraq",
+        "City": "Kurdistan",
+        "Website": "N/A"
+    },
+    {
+        "Count": 47,
+        "Name": "The Cambridge School Doha",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://tcsqatar.com/"
+    },
+    {
+        "Count": 48,
+        "Name": "Lyc\u00e9e Francais Jean Mermoz",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.lfjm.education/"
+    },
+    {
+        "Count": 49,
+        "Name": "Arab Unity School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 50,
+        "Name": "The Sultan's School",
+        "Country": "Oman",
+        "City": "Seeb",
+        "Website": "N/A"
+    },
+    {
+        "Count": 51,
+        "Name": "The Ahliyyah School for Girls & Bishop's School for Boys",
+        "Country": "Jordan",
+        "City": "Amman",
+        "Website": "N/A"
+    },
+    {
+        "Count": 52,
+        "Name": "GEMS American Academy Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.gemsamericanacademy-qatar.com/"
+    },
+    {
+        "Count": 53,
+        "Name": "The Learning Caravan International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://www.tlc-riyadh.com/"
+    },
+    {
+        "Count": 54,
+        "Name": "Fairgreen International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.fairgreen.ae/"
+    },
+    {
+        "Count": 55,
+        "Name": "Jeddah Prep and Grammar School",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "http://www.jpgs.org"
+    },
+    {
+        "Count": 56,
+        "Name": "Alruwad International School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "http://ais.edu.om/"
+    },
+    {
+        "Count": 57,
+        "Name": "British School Muscat",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.britishschoolmuscat.com/"
+    },
+    {
+        "Count": 58,
+        "Name": "Universal American School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.uasdubai.ae/home"
+    },
+    {
+        "Count": 59,
+        "Name": "British School of Bahrain",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://britishschoolbahrain.com/"
+    },
+    {
+        "Count": 60,
+        "Name": "Loydence Academy",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://www.loydenceacademy.com/"
+    },
+    {
+        "Count": 61,
+        "Name": "Al Sahwa School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "N/A"
+    },
+    {
+        "Count": 62,
+        "Name": "The Cambridge School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 63,
+        "Name": "Carmel School Kuwait",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://www.carmelschoolkwt.com/"
+    },
+    {
+        "Count": 64,
+        "Name": "Sands International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "http://www.sis.sch.sa/"
+    },
+    {
+        "Count": 65,
+        "Name": "AMA International School, Bahrain",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://www.amais.edu.bh/"
+    },
+    {
+        "Count": 66,
+        "Name": "GEMS New Millennium School - Al Khail",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsnewmillenniumschool-alkhail.com/"
+    },
+    {
+        "Count": 67,
+        "Name": "The American International School of Muscat",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.taism.com/"
+    },
+    {
+        "Count": 68,
+        "Name": "Greenfield Community School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gcschool.ae/"
+    },
+    {
+        "Count": 69,
+        "Name": "International School of Oman",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.isooman.com/"
+    },
+    {
+        "Count": 70,
+        "Name": "Al Rabeeh Academy",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://www.alrabeehac.ae"
+    },
+    {
+        "Count": 71,
+        "Name": "Al Ghanim Bilingual School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.gbs.edu.kw/"
+    },
+    {
+        "Count": 72,
+        "Name": "Kings' School Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://kings-edu.com/dubai/"
+    },
+    {
+        "Count": 73,
+        "Name": "ISG Jubail School",
+        "Country": "Saudi Arabia",
+        "City": "Jubail",
+        "Website": "N/A"
+    },
+    {
+        "Count": 74,
+        "Name": "New Generation Private School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://ngisbahrain.com/"
+    },
+    {
+        "Count": 75,
+        "Name": "International Schools Group - Jubail",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "http://isg-jubail.org"
+    },
+    {
+        "Count": 76,
+        "Name": "Doha College",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.dohacollege.com/"
+    },
+    {
+        "Count": 77,
+        "Name": "Al Yasmina School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://www.alyasmina.sch.ae"
+    },
+    {
+        "Count": 78,
+        "Name": "The Scholars' International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://scholarsqatar.com/"
+    },
+    {
+        "Count": 79,
+        "Name": "International Concept for Education",
+        "Country": "United Arab Emirates",
+        "City": "N/A",
+        "Website": "http://icedubai.org"
+    },
+    {
+        "Count": 80,
+        "Name": "The International Academy Amman",
+        "Country": "Jordan",
+        "City": "Amman",
+        "Website": "N/A"
+    },
+    {
+        "Count": 81,
+        "Name": "Alpha Cambridge School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://acsqatar.net/"
+    },
+    {
+        "Count": 82,
+        "Name": "German International School Doha",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.ds-doha.de/en/"
+    },
+    {
+        "Count": 83,
+        "Name": "Newton International Academy Barwa City",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://niabarwacity.newtonschools.sch.qa/"
+    },
+    {
+        "Count": 84,
+        "Name": "English Academy",
+        "Country": "Kuwait",
+        "City": "Surra",
+        "Website": "N/A"
+    },
+    {
+        "Count": 85,
+        "Name": "International School of London, Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.islqatar.org/"
+    },
+    {
+        "Count": 86,
+        "Name": "Oscar Academy",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://oscaracademyqatar.com/"
+    },
+    {
+        "Count": 87,
+        "Name": "Al Khor International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 88,
+        "Name": "International School of Creative Science",
+        "Country": "United Arab Emirates",
+        "City": "Sharjah",
+        "Website": "http://iscs.sch.ae"
+    },
+    {
+        "Count": 89,
+        "Name": "Horizon International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.hisdubai.ae/"
+    },
+    {
+        "Count": 90,
+        "Name": "Al Nahda National School for Boys",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "N/A"
+    },
+    {
+        "Count": 91,
+        "Name": "The International School of Choueifat \u2013 Doha",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 92,
+        "Name": "International British School Kuwait",
+        "Country": "Kuwait",
+        "City": "N/A",
+        "Website": "https://www.ibskuwait.com/about-us/"
+    },
+    {
+        "Count": 93,
+        "Name": "Maplewood International School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://maplewood.school/"
+    },
+    {
+        "Count": 94,
+        "Name": "Apple Green Private School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "http://www.applegreenschool.com/"
+    },
+    {
+        "Count": 95,
+        "Name": "ABC Private School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://www.abcprivateschool.com/"
+    },
+    {
+        "Count": 96,
+        "Name": "Greenfield International School",
+        "Country": "United Arab Emirates",
+        "City": "N/A",
+        "Website": "https://www.gischool.ae/"
+    },
+    {
+        "Count": 97,
+        "Name": "GEMS American Academy Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.gemsaa-abudhabi.com/"
+    },
+    {
+        "Count": 98,
+        "Name": "Star International School, Mirdif",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.starmirdifschool.com"
+    },
+    {
+        "Count": 99,
+        "Name": "Sunrise International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "http://sunrise.edu.sa/sr/"
+    },
+    {
+        "Count": 100,
+        "Name": "International British School Kuwait",
+        "Country": "Kuwait",
+        "City": "N/A",
+        "Website": "https://www.ibskuwait.com/about-us/"
+    },
+    {
+        "Count": 101,
+        "Name": "International Community School - City Centre Campus",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.icschool-uae.com/index.php/en/ics-najda"
+    },
+    {
+        "Count": 102,
+        "Name": "The English Modern School Khor",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.englishmodernschool.net/emskhor/"
+    },
+    {
+        "Count": 103,
+        "Name": "Radhwa International School Yanbu",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "https://radhwa.org"
+    },
+    {
+        "Count": 104,
+        "Name": "Gheras International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.gherasschool.com/"
+    },
+    {
+        "Count": 105,
+        "Name": "The International School of Choueifat - Manama",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://iscmanama.sabis.net/"
+    },
+    {
+        "Count": 106,
+        "Name": "Lyc\u00e9e Francais Th\u00e9odore Monod",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://ltmonod.aflec-fr.org/"
+    },
+    {
+        "Count": 107,
+        "Name": "The KAUST School",
+        "Country": "Saudi Arabia",
+        "City": "Jeddah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 108,
+        "Name": "Repton School Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.reptondubai.org/"
+    },
+    {
+        "Count": 109,
+        "Name": "Amman Baccalaureate School",
+        "Country": "Jordan",
+        "City": "Amman",
+        "Website": "N/A"
+    },
+    {
+        "Count": 110,
+        "Name": "Apple Green Private School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "http://www.applegreenschool.com/"
+    },
+    {
+        "Count": 111,
+        "Name": "International School of Oman",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.isooman.com/"
+    },
+    {
+        "Count": 112,
+        "Name": "Dukhan English School",
+        "Country": "Qatar",
+        "City": "N/A",
+        "Website": "http://des.com.qa/Pages/Home_3.aspx"
+    },
+    {
+        "Count": 113,
+        "Name": "Diyar International Private School",
+        "Country": "United Arab Emirates",
+        "City": "Fujairah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 114,
+        "Name": "The American School of Kuwait",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.ask.edu.kw/"
+    },
+    {
+        "Count": 115,
+        "Name": "GEMS Wellington School Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.gemswellingtonschool-qatar.com/"
+    },
+    {
+        "Count": 116,
+        "Name": "The International School of Choueifat - Muscat",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "http://www.iscmuscat.edu.om/"
+    },
+    {
+        "Count": 117,
+        "Name": "Bright Riders School Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://brightridersdubai.com/"
+    },
+    {
+        "Count": 118,
+        "Name": "Future Bilingual School for Boys and Future Bilingual School For Girls",
+        "Country": "Kuwait",
+        "City": "Fahaheel",
+        "Website": "N/A"
+    },
+    {
+        "Count": 119,
+        "Name": "German International School Beirut",
+        "Country": "Lebanon",
+        "City": "N/A",
+        "Website": "https://www.dsb.edu.lb/"
+    },
+    {
+        "Count": 120,
+        "Name": "GEMS United Indian School Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.gemsunitedindianschool-abudhabi.com/"
+    },
+    {
+        "Count": 121,
+        "Name": "Al Nahda National Schools",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://beta.nahdaschools.com/"
+    },
+    {
+        "Count": 122,
+        "Name": "Saud International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://sis.edu.sa/en/Default.aspx"
+    },
+    {
+        "Count": 123,
+        "Name": "Scholars International Academy",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://scholarsinternationalacademy.com/"
+    },
+    {
+        "Count": 124,
+        "Name": "Raffles World Academy",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.rwadubai.com/"
+    },
+    {
+        "Count": 125,
+        "Name": "N\u00fcn Academy",
+        "Country": "Saudi Arabia",
+        "City": "Jeddah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 126,
+        "Name": "The International School of Choueifat - Ajman",
+        "Country": "United Arab Emirates",
+        "City": "Ajman",
+        "Website": "N/A"
+    },
+    {
+        "Count": 127,
+        "Name": "Tehran International School",
+        "Country": "Iran",
+        "City": "N/A",
+        "Website": "https://www.tissch.ir/"
+    },
+    {
+        "Count": 128,
+        "Name": "Al Rabeeh Academy",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://www.alrabeehac.ae"
+    },
+    {
+        "Count": 129,
+        "Name": "Canadian Bilingual School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.cbskuwait.com/"
+    },
+    {
+        "Count": 130,
+        "Name": "New English School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://www.neskt.com/"
+    },
+    {
+        "Count": 131,
+        "Name": "International Academy of Kuwait",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://iak-alshayaschools.com/"
+    },
+    {
+        "Count": 132,
+        "Name": "American Academy School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://americanacademy.sch.qa/"
+    },
+    {
+        "Count": 133,
+        "Name": "ADNOC Schools",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "N/A"
+    },
+    {
+        "Count": 134,
+        "Name": "International Academic School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://ias.sch.ae/"
+    },
+    {
+        "Count": 135,
+        "Name": "Cambridge English School Hawally",
+        "Country": "Kuwait",
+        "City": "N/A",
+        "Website": "http://www.marefa-education.com"
+    },
+    {
+        "Count": 136,
+        "Name": "The International School of Choueifat \u2013 Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 137,
+        "Name": "The School of Research Science",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://srsdubai.ae/"
+    },
+    {
+        "Count": 138,
+        "Name": "Repton School, Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.reptonabudhabi.org/"
+    },
+    {
+        "Count": 139,
+        "Name": "GEMS FirstPoint School - The Villa",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsfirstpointschool-dubai.com/"
+    },
+    {
+        "Count": 140,
+        "Name": "GEMS Cambridge International School Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.gemscambridgeinternationalschool-abudhabi.com/"
+    },
+    {
+        "Count": 141,
+        "Name": "Capital School Bahrain",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://capitalschoolbahrain.com/"
+    },
+    {
+        "Count": 142,
+        "Name": "Dwight School Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.dwightschooldubai.ae/"
+    },
+    {
+        "Count": 143,
+        "Name": "Al Yasmina Academy",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.alyasminaacademy.sch.ae/"
+    },
+    {
+        "Count": 144,
+        "Name": "German International School Sharjah",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.dssharjah.org/"
+    },
+    {
+        "Count": 145,
+        "Name": "Deutsche Internationale Schule Riad",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://en.disr.edu.sa/"
+    },
+    {
+        "Count": 146,
+        "Name": "The Knowledge Bridges International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://www.kbisksa.com/"
+    },
+    {
+        "Count": 147,
+        "Name": "Olive International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://oliveschooldoha.com/"
+    },
+    {
+        "Count": 148,
+        "Name": "Arcadia School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 149,
+        "Name": "Al Mahd Day Boarding School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://www.almahdschool.com/index.html"
+    },
+    {
+        "Count": 150,
+        "Name": "Radhwa International School Yanbu",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "https://radhwa.org"
+    },
+    {
+        "Count": 151,
+        "Name": "Al Najah Private School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://anps.co/"
+    },
+    {
+        "Count": 152,
+        "Name": "Jebel Ali School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://jebelalischool.org/"
+    },
+    {
+        "Count": 153,
+        "Name": "Ideal Education School, Kuwait",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "N/A"
+    },
+    {
+        "Count": 154,
+        "Name": "The Learning Caravan International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://www.tlc-riyadh.com/"
+    },
+    {
+        "Count": 155,
+        "Name": "Qatar Academy Al Khor",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://qak.edu.qa/"
+    },
+    {
+        "Count": 156,
+        "Name": "Islamic Educational College",
+        "Country": "Jordan",
+        "City": "Amman",
+        "Website": "N/A"
+    },
+    {
+        "Count": 157,
+        "Name": "Future Bilingual School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.fbs.edu.kw/"
+    },
+    {
+        "Count": 158,
+        "Name": "Al Nahda National School for Girls",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "N/A"
+    },
+    {
+        "Count": 159,
+        "Name": "The Sheffield Private School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://sheffield-school.com/"
+    },
+    {
+        "Count": 160,
+        "Name": "Al Wisam School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://awis.edu.bh/"
+    },
+    {
+        "Count": 161,
+        "Name": "Al Hekma International School Bahrain",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://www.alhekma.com/"
+    },
+    {
+        "Count": 162,
+        "Name": "GEMS Founders School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsfoundersschool-dubai.com"
+    },
+    {
+        "Count": 163,
+        "Name": "Belgravia High School Doha",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.belgraviadoha.com/"
+    },
+    {
+        "Count": 164,
+        "Name": "Al Noor International School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://www.alnischool.com/"
+    },
+    {
+        "Count": 165,
+        "Name": "The Arbor School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.thearborschool.ae/"
+    },
+    {
+        "Count": 166,
+        "Name": "The American United School of Kuwait",
+        "Country": "Kuwait",
+        "City": "Sabah Al Salem",
+        "Website": "N/A"
+    },
+    {
+        "Count": 167,
+        "Name": "Dubai National School Al Barsha",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.dnsalbarsha.com/"
+    },
+    {
+        "Count": 168,
+        "Name": "Naseem International School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://www.nisbah.com/"
+    },
+    {
+        "Count": 169,
+        "Name": "Sherborne Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://www.sherborneqatar.org/home/"
+    },
+    {
+        "Count": 170,
+        "Name": "Doha British School Ain Khaled",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.dohabritishschool.com/dbs-ainkhaled/"
+    },
+    {
+        "Count": 171,
+        "Name": "Al-Ra'ed Al-Arabi School",
+        "Country": "Jordan",
+        "City": "Amman",
+        "Website": "N/A"
+    },
+    {
+        "Count": 172,
+        "Name": "International School of Creative Science, Nad Al Sheba",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://iscs.sch.ae/en/nad-al-sheba"
+    },
+    {
+        "Count": 173,
+        "Name": "Capital School Bahrain",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://capitalschoolbahrain.com/"
+    },
+    {
+        "Count": 174,
+        "Name": "Al Maha Academy For Boys",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://amab.com.qa/"
+    },
+    {
+        "Count": 175,
+        "Name": "GEMS Winchester School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemswinchesterschool-dubai.com/"
+    },
+    {
+        "Count": 176,
+        "Name": "School of Research Science",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 177,
+        "Name": "American Community School, Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "N/A",
+        "Website": "https://www.acs.sch.ae/"
+    },
+    {
+        "Count": 178,
+        "Name": "The Westminster School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsws-ghusais.com/"
+    },
+    {
+        "Count": 179,
+        "Name": "Dubai British Foundation",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.dubaibritishfs.ae/"
+    },
+    {
+        "Count": 180,
+        "Name": "Emirates International School Jumeirah",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.eischools.ae/jumeirah"
+    },
+    {
+        "Count": 181,
+        "Name": "Fairgreen International School",
+        "Country": "United Arab Emirates",
+        "City": "N/A",
+        "Website": "https://www.fairgreen.ae"
+    },
+    {
+        "Count": 182,
+        "Name": "GEMS Founders Al Mizhar",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.gemsfoundersscholl-mizhar.com"
+    },
+    {
+        "Count": 183,
+        "Name": "American Academy For Girls",
+        "Country": "Kuwait",
+        "City": "Hawalli",
+        "Website": "N/A"
+    },
+    {
+        "Count": 184,
+        "Name": "The Sheikh Zayed Private Academy for Boys",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://szpag.com/"
+    },
+    {
+        "Count": 185,
+        "Name": "The Sultan's School",
+        "Country": "Oman",
+        "City": "N/A",
+        "Website": "https://www.sultansschool.edu.om"
+    },
+    {
+        "Count": 186,
+        "Name": "Cambridge English School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://cambridge-kw.com/"
+    },
+    {
+        "Count": 187,
+        "Name": "German International School Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.gisad.ae/"
+    },
+    {
+        "Count": 188,
+        "Name": "The Australian School of Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://australianschool.ae/"
+    },
+    {
+        "Count": 189,
+        "Name": "Qatar Academy for Science and Technology",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 190,
+        "Name": "American-British Academy",
+        "Country": "Oman",
+        "City": "MUSCAT",
+        "Website": "N/A"
+    },
+    {
+        "Count": 191,
+        "Name": "Jeddah Knowledge School",
+        "Country": "Saudi Arabia",
+        "City": "Jeddah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 192,
+        "Name": "Al Hekma International School",
+        "Country": "Bahrain",
+        "City": "Adliya",
+        "Website": "N/A"
+    },
+    {
+        "Count": 193,
+        "Name": "International Community School - City Centre Campus",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.icschool-uae.com/index.php/en/ics-najda"
+    },
+    {
+        "Count": 194,
+        "Name": "Lyc\u00e9e Francais MLF Bahrein",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://lyceefrancaismlfbahrein.com/"
+    },
+    {
+        "Count": 195,
+        "Name": "Bright Riders School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.brightriders.ae/"
+    },
+    {
+        "Count": 196,
+        "Name": "International College Beirut",
+        "Country": "Lebanon",
+        "City": "Beirut",
+        "Website": "N/A"
+    },
+    {
+        "Count": 197,
+        "Name": "Education International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "http://education-school.edu.sa/"
+    },
+    {
+        "Count": 198,
+        "Name": "Dubai International Academy, Al Barsha",
+        "Country": "United Arab Emirates",
+        "City": "N/A",
+        "Website": "https://www.diabarsha.com"
+    },
+    {
+        "Count": 199,
+        "Name": "Canadian International School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://cisabudhabi.com/"
+    },
+    {
+        "Count": 200,
+        "Name": "International Community School - Mushrif Campus",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.icschool-uae.com/index.php/en/ics-almushrif"
+    },
+    {
+        "Count": 201,
+        "Name": "Jeddah Knowledge International School",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "https://www.jks.edu.sa"
+    },
+    {
+        "Count": 202,
+        "Name": "Oscar Academy",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://oscaracademyqatar.com/"
+    },
+    {
+        "Count": 203,
+        "Name": "Spectra Global School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.spectraschools.com/"
+    },
+    {
+        "Count": 204,
+        "Name": "British International Academy (BIA)",
+        "Country": "Jordan",
+        "City": "N/A",
+        "Website": "https://www.bia.edu.jo"
+    },
+    {
+        "Count": 205,
+        "Name": "Lyc\u00e9e Francais de Koweit",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.lfkoweit.edu.kw/"
+    },
+    {
+        "Count": 206,
+        "Name": "Kidz World Kindergarten",
+        "Country": "Bahrain",
+        "City": "Adliya",
+        "Website": "N/A"
+    },
+    {
+        "Count": 207,
+        "Name": "Abdul Rahman Kanoo International School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://kanooschool.edu.bh/site/home/"
+    },
+    {
+        "Count": 208,
+        "Name": "The Arbor School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.thearborschool.ae/"
+    },
+    {
+        "Count": 209,
+        "Name": "Ranches Primary School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.rpsdubai.com/"
+    },
+    {
+        "Count": 210,
+        "Name": "South View School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://southviewschool.com/"
+    },
+    {
+        "Count": 211,
+        "Name": "Al Salam Community School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.alsalamcommunity.ae/"
+    },
+    {
+        "Count": 212,
+        "Name": "The Sheffield Private School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://sheffield-school.com/"
+    },
+    {
+        "Count": 213,
+        "Name": "Al Rabeeh School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://www.alrabeeh.sch.ae/"
+    },
+    {
+        "Count": 214,
+        "Name": "The American Baccalaureate School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.abs.edu.kw/"
+    },
+    {
+        "Count": 215,
+        "Name": "Kings' School Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://kings-edu.com/dubai/"
+    },
+    {
+        "Count": 216,
+        "Name": "American Lyceum International School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.lyceumgroupofschools.com/muscat"
+    },
+    {
+        "Count": 217,
+        "Name": "Al Noor International School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://www.alnischool.com/"
+    },
+    {
+        "Count": 218,
+        "Name": "Advanced Learning Schools",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://www.alsschools.com/"
+    },
+    {
+        "Count": 219,
+        "Name": "Qatar Academy Msheireb",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://qam.qa/"
+    },
+    {
+        "Count": 220,
+        "Name": "The Sultan's School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.sultansschool.edu.om/"
+    },
+    {
+        "Count": 221,
+        "Name": "International British School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://www.ibs-doha.com/"
+    },
+    {
+        "Count": 222,
+        "Name": "Dubai International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.dipschool.ae/"
+    },
+    {
+        "Count": 223,
+        "Name": "Multinational School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "N/A"
+    },
+    {
+        "Count": 224,
+        "Name": "American-British Academy",
+        "Country": "Oman",
+        "City": "MUSCAT",
+        "Website": "N/A"
+    },
+    {
+        "Count": 225,
+        "Name": "British International School of Al Khobar",
+        "Country": "Saudi Arabia",
+        "City": "Al Khobar",
+        "Website": "N/A"
+    },
+    {
+        "Count": 226,
+        "Name": "Gheras International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.gherasschool.com/"
+    },
+    {
+        "Count": 227,
+        "Name": "American International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.aisch.ae/"
+    },
+    {
+        "Count": 228,
+        "Name": "Naseem International School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://www.nisbah.com/"
+    },
+    {
+        "Count": 229,
+        "Name": "The Royal Grammar School Guildford Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.rgsgd.com/"
+    },
+    {
+        "Count": 230,
+        "Name": "Newlands School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.newlandsschool.ae/"
+    },
+    {
+        "Count": 231,
+        "Name": "American School of Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.asdubai.org/"
+    },
+    {
+        "Count": 232,
+        "Name": "School of Research Science",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 233,
+        "Name": "Oxford English School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://oxfordschoolqatar.com/"
+    },
+    {
+        "Count": 234,
+        "Name": "The American International School of Muscat",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "N/A"
+    },
+    {
+        "Count": 235,
+        "Name": "Bright Riders School Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://brightridersdubai.com/"
+    },
+    {
+        "Count": 236,
+        "Name": "Ajyal International School - Al Falah",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.ajyalfalah.sch.ae/"
+    },
+    {
+        "Count": 237,
+        "Name": "The International School of Choueifat \u2013 Ras Al Khaimah",
+        "Country": "United Arab Emirates",
+        "City": "Ras al Khaimah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 238,
+        "Name": "Lyc\u00e9e Francais MLF Bahrein",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://lyceefrancaismlfbahrein.com/"
+    },
+    {
+        "Count": 239,
+        "Name": "The Bahrain Bayan School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://www.bayanschool.edu.bh/"
+    },
+    {
+        "Count": 240,
+        "Name": "Ras Al Khaimah Academy",
+        "Country": "United Arab Emirates",
+        "City": "Ras al Khaimah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 241,
+        "Name": "ISG Dammam School",
+        "Country": "Saudi Arabia",
+        "City": "Dammam",
+        "Website": "N/A"
+    },
+    {
+        "Count": 242,
+        "Name": "Eastern Mediterranean International School",
+        "Country": "Israel",
+        "City": "N/A",
+        "Website": "https://www.em-is.org/"
+    },
+    {
+        "Count": 243,
+        "Name": "Future Bilingual School for Boys and Future Bilingual School For Girls",
+        "Country": "Kuwait",
+        "City": "Fahaheel",
+        "Website": "N/A"
+    },
+    {
+        "Count": 244,
+        "Name": "Blyth Academy Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://blythacademyqatar.com/"
+    },
+    {
+        "Count": 245,
+        "Name": "Al Hekma International School Bahrain",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://www.alhekma.com/"
+    },
+    {
+        "Count": 246,
+        "Name": "Education Gate International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://educationgater.com/"
+    },
+    {
+        "Count": 247,
+        "Name": "The International School of Choueifat - Manama",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://iscmanama.sabis.net/"
+    },
+    {
+        "Count": 248,
+        "Name": "English Academy",
+        "Country": "Kuwait",
+        "City": "Surra",
+        "Website": "N/A"
+    },
+    {
+        "Count": 249,
+        "Name": "AL FARIS International School",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "https://alfarisschool.edu.sa/"
+    },
+    {
+        "Count": 250,
+        "Name": "Sana'a British School",
+        "Country": "Yemen",
+        "City": "N/A",
+        "Website": "http://www.sbsyemen.org"
+    },
+    {
+        "Count": 251,
+        "Name": "International School of London, Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.islqatar.org/"
+    },
+    {
+        "Count": 252,
+        "Name": "Al Bayan Educational Complex for Girls",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 253,
+        "Name": "Al Noor International School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://www.alnischool.com/"
+    },
+    {
+        "Count": 254,
+        "Name": "Advanced Learning Schools",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://www.alsschools.com/"
+    },
+    {
+        "Count": 255,
+        "Name": "Newton International Academy Barwa City",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://niabarwacity.newtonschools.sch.qa/"
+    },
+    {
+        "Count": 256,
+        "Name": "JESS Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.jess.sch.ae"
+    },
+    {
+        "Count": 257,
+        "Name": "English Talents School",
+        "Country": "Jordan",
+        "City": "N/A",
+        "Website": "https://www.cis.edu.jo/en/Home"
+    },
+    {
+        "Count": 258,
+        "Name": "Newton International School West Bay",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://niswestbay.newtonschools.sch.qa/"
+    },
+    {
+        "Count": 259,
+        "Name": "Al Hussan International School Riyadh",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://international.alhussan.edu.sa/Pages/InnerPageDetails?pageID=1"
+    },
+    {
+        "Count": 260,
+        "Name": "Star International School, Mirdif",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.starmirdifschool.com"
+    },
+    {
+        "Count": 261,
+        "Name": "Yusr International Schools",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "http://yusrschool.com"
+    },
+    {
+        "Count": 262,
+        "Name": "Providence English Private School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.peps.ae/"
+    },
+    {
+        "Count": 263,
+        "Name": "Cambridge English School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://cambridge-kw.com/"
+    },
+    {
+        "Count": 264,
+        "Name": "Blyth Academy Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://blythacademyqatar.com/"
+    },
+    {
+        "Count": 265,
+        "Name": "The Winchester School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.thewinchesterschool.com/"
+    },
+    {
+        "Count": 266,
+        "Name": "Indian Public School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://www.ipskwt.com/"
+    },
+    {
+        "Count": 267,
+        "Name": "Collegiate American School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.casdubai.com/"
+    },
+    {
+        "Count": 268,
+        "Name": "Mehr-e-Taban International School",
+        "Country": "Iran",
+        "City": "N/A",
+        "Website": "http://mehrschool.com"
+    },
+    {
+        "Count": 269,
+        "Name": "Dubai English Speaking College",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.dessc.sch.ae/desc/welcome-from-the-headteacher"
+    },
+    {
+        "Count": 270,
+        "Name": "International College",
+        "Country": "Lebanon",
+        "City": "N/A",
+        "Website": "https://www.ic.edu.lb/"
+    },
+    {
+        "Count": 271,
+        "Name": "Modern Montessori School",
+        "Country": "Jordan",
+        "City": "Amman",
+        "Website": "N/A"
+    },
+    {
+        "Count": 272,
+        "Name": "The International School of Choueifat - Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://iscabudhabi.sabis.net/"
+    },
+    {
+        "Count": 273,
+        "Name": "Al Hekma International School",
+        "Country": "Bahrain",
+        "City": "Adliya",
+        "Website": "N/A"
+    },
+    {
+        "Count": 274,
+        "Name": "Azzan Bin Qais International School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.abq.edu.om/"
+    },
+    {
+        "Count": 275,
+        "Name": "Canadian International School - Amman",
+        "Country": "Jordan",
+        "City": "N/A",
+        "Website": "https://www.cis.edu.jo"
+    },
+    {
+        "Count": 276,
+        "Name": "American Academy For Girls",
+        "Country": "Kuwait",
+        "City": "Hawalli",
+        "Website": "N/A"
+    },
+    {
+        "Count": 277,
+        "Name": "Dubai British Foundation",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.dubaibritishfs.ae/"
+    },
+    {
+        "Count": 278,
+        "Name": "Radhwa International School Yanbu",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "https://radhwa.org"
+    },
+    {
+        "Count": 279,
+        "Name": "Australian International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.ais.ae/"
+    },
+    {
+        "Count": 280,
+        "Name": "Dubai American Academy",
+        "Country": "United Arab Emirates",
+        "City": "N/A",
+        "Website": "https://www.gemsaa-dubai.com/"
+    },
+    {
+        "Count": 281,
+        "Name": "Al Najah Private School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://anps.co/"
+    },
+    {
+        "Count": 282,
+        "Name": "Al Jazeera Academy",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://aja.edu.qa/Home"
+    },
+    {
+        "Count": 283,
+        "Name": "Givat Haviva International School",
+        "Country": "Israel",
+        "City": "N/A",
+        "Website": "https://www.gh-is.org"
+    },
+    {
+        "Count": 284,
+        "Name": "The International School of Choueifat - Umm Al Quwain",
+        "Country": "United Arab Emirates",
+        "City": "Umm Al Quawain",
+        "Website": "N/A"
+    },
+    {
+        "Count": 285,
+        "Name": "Al Muna Primary School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://www.almunaprimary.sch.ae"
+    },
+    {
+        "Count": 286,
+        "Name": "Wesgreen International School",
+        "Country": "United Arab Emirates",
+        "City": "Sharjah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 287,
+        "Name": "Education Gate International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://educationgater.com/"
+    },
+    {
+        "Count": 288,
+        "Name": "Almeena International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://www.almeena-school.com/en/"
+    },
+    {
+        "Count": 289,
+        "Name": "Al Salam Community School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.alsalamcommunity.ae/"
+    },
+    {
+        "Count": 290,
+        "Name": "AMA International School, Bahrain",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://www.amais.edu.bh/"
+    },
+    {
+        "Count": 291,
+        "Name": "Riffa Views International School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://www.rvis.edu.bh/"
+    },
+    {
+        "Count": 292,
+        "Name": "The American United School of Kuwait",
+        "Country": "Kuwait",
+        "City": "Sabah Al Salem",
+        "Website": "N/A"
+    },
+    {
+        "Count": 293,
+        "Name": "The Universal American School-Kuwait",
+        "Country": "Kuwait",
+        "City": "Hawally",
+        "Website": "N/A"
+    },
+    {
+        "Count": 294,
+        "Name": "Danah Universal School of Kuwait",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://dusk-kw.net/"
+    },
+    {
+        "Count": 295,
+        "Name": "Rashid School for Boys",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.rsbdubai.sch.ae"
+    },
+    {
+        "Count": 296,
+        "Name": "Qatar-Finland International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 297,
+        "Name": "M.E.S. Indian School of Doha",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://www.mesqatar.org/"
+    },
+    {
+        "Count": 298,
+        "Name": "Sharjah English School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.sharjahenglishschool.org/"
+    },
+    {
+        "Count": 299,
+        "Name": "Merryland International School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://www.merrylandinternational.net/newsite/"
+    },
+    {
+        "Count": 300,
+        "Name": "Rashid School for Boys",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.rsbdubai.sch.ae"
+    },
+    {
+        "Count": 301,
+        "Name": "Pearling Season International School",
+        "Country": "Qatar",
+        "City": "N/A",
+        "Website": "http://www.psisd.com.qa"
+    },
+    {
+        "Count": 302,
+        "Name": "Qatar Academy Al-Khor",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 303,
+        "Name": "Anglican International School Jerusalem",
+        "Country": "Israel",
+        "City": "N/A",
+        "Website": "https://www.aisj.co.il/"
+    },
+    {
+        "Count": 304,
+        "Name": "Lyc\u00e9e Francais de Mascate",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.lfm.om/"
+    },
+    {
+        "Count": 305,
+        "Name": "N\u00fcn Academy",
+        "Country": "Saudi Arabia",
+        "City": "Jeddah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 306,
+        "Name": "Al Nahda National School for Girls",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "N/A"
+    },
+    {
+        "Count": 307,
+        "Name": "Amity International School Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://amityabudhabi.com/"
+    },
+    {
+        "Count": 308,
+        "Name": "Abu Dhabi International School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://aisschools.com/"
+    },
+    {
+        "Count": 309,
+        "Name": "Dubai English Speaking School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.dessc.sch.ae/dess/welcome-from-the-headteacher"
+    },
+    {
+        "Count": 310,
+        "Name": "The City School International",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.thecityschool.sch.ae"
+    },
+    {
+        "Count": 311,
+        "Name": "American International School Kuwait",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.ais-kuwait.org/"
+    },
+    {
+        "Count": 312,
+        "Name": "Compass International School, Doha",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.nordangliaeducation.com/our-schools/doha/madinat-khalifa"
+    },
+    {
+        "Count": 313,
+        "Name": "Future Bilingual School for Boys and Future Bilingual School For Girls",
+        "Country": "Kuwait",
+        "City": "Fahaheel",
+        "Website": "N/A"
+    },
+    {
+        "Count": 314,
+        "Name": "International Programs School",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "https://www.ipsksa.com/"
+    },
+    {
+        "Count": 315,
+        "Name": "Scholars International Academy",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://scholarsinternationalacademy.com/"
+    },
+    {
+        "Count": 316,
+        "Name": "Virginia International Private School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://virginiaschool.ae/en/"
+    },
+    {
+        "Count": 317,
+        "Name": "The British International School Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.nordangliaeducation.com/our-schools/abu-dhabi"
+    },
+    {
+        "Count": 318,
+        "Name": "Al Mahd International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://amis.qa/"
+    },
+    {
+        "Count": 319,
+        "Name": "The International Academy Amman",
+        "Country": "Jordan",
+        "City": "Amman",
+        "Website": "N/A"
+    },
+    {
+        "Count": 320,
+        "Name": "Jebel Ali School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://jebelalischool.org/"
+    },
+    {
+        "Count": 321,
+        "Name": "Modern Montessori School",
+        "Country": "Jordan",
+        "City": "Amman",
+        "Website": "N/A"
+    },
+    {
+        "Count": 322,
+        "Name": "American Lyceum International School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.lyceumgroupofschools.com/muscat"
+    },
+    {
+        "Count": 323,
+        "Name": "Oxford English School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://oxfordschoolqatar.com/"
+    },
+    {
+        "Count": 324,
+        "Name": "Belvedere International School",
+        "Country": "United Arab Emirates",
+        "City": "Al Ain",
+        "Website": "http://www.belvedereinternationalschool.com"
+    },
+    {
+        "Count": 325,
+        "Name": "Beta Cambridge School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.betacambridge.com/"
+    },
+    {
+        "Count": 326,
+        "Name": "Jawahir Al Riyadh International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://www.jawahirschool.com/"
+    },
+    {
+        "Count": 327,
+        "Name": "New Pakistan International School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.npiskuwait.com/"
+    },
+    {
+        "Count": 328,
+        "Name": "The International School of Choueifat \u2013 Ras Al Khaimah",
+        "Country": "United Arab Emirates",
+        "City": "Ras al Khaimah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 329,
+        "Name": "Saud International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://sis.edu.sa/en/Default.aspx"
+    },
+    {
+        "Count": 330,
+        "Name": "German International School Sharjah",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.dssharjah.org/"
+    },
+    {
+        "Count": 331,
+        "Name": "Bright Riders School Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://brightridersdubai.com/"
+    },
+    {
+        "Count": 332,
+        "Name": "Ideal Education School, Kuwait",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "N/A"
+    },
+    {
+        "Count": 333,
+        "Name": "Ajman Modern School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.amschool.ae/"
+    },
+    {
+        "Count": 334,
+        "Name": "GEMS Wellington Primary School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemswps.com/"
+    },
+    {
+        "Count": 335,
+        "Name": "Eastwood International School",
+        "Country": "Lebanon",
+        "City": "N/A",
+        "Website": "http://eastwoodschools.com"
+    },
+    {
+        "Count": 336,
+        "Name": "New English School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://www.neskt.com/"
+    },
+    {
+        "Count": 337,
+        "Name": "British School of Bahrain",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://britishschoolbahrain.com/"
+    },
+    {
+        "Count": 338,
+        "Name": "Amman Academy",
+        "Country": "Jordan",
+        "City": "Amman",
+        "Website": "N/A"
+    },
+    {
+        "Count": 339,
+        "Name": "The Sultan's School",
+        "Country": "Oman",
+        "City": "Seeb",
+        "Website": "N/A"
+    },
+    {
+        "Count": 340,
+        "Name": "GEMS New Millennium School - Al Khail",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsnewmillenniumschool-alkhail.com/"
+    },
+    {
+        "Count": 341,
+        "Name": "Beaconhouse Private School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.beaconhouse-qrm.edu.om/"
+    },
+    {
+        "Count": 342,
+        "Name": "The Sultan's School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.sultansschool.edu.om/"
+    },
+    {
+        "Count": 343,
+        "Name": "India International School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://www.iiskwt.com/"
+    },
+    {
+        "Count": 344,
+        "Name": "The Australian School of Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://australianschool.ae/"
+    },
+    {
+        "Count": 345,
+        "Name": "Royal Flight School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://royalflightschool.org/"
+    },
+    {
+        "Count": 346,
+        "Name": "International Concept for Education",
+        "Country": "United Arab Emirates",
+        "City": "N/A",
+        "Website": "http://icedubai.org"
+    },
+    {
+        "Count": 347,
+        "Name": "Galileo International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://galileo-is.com/"
+    },
+    {
+        "Count": 348,
+        "Name": "Al Yasat Private School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.alyasat-school.com/en/"
+    },
+    {
+        "Count": 349,
+        "Name": "Repton Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.reptondubai.org"
+    },
+    {
+        "Count": 350,
+        "Name": "Queen International School Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.qisdubai.com/"
+    },
+    {
+        "Count": 351,
+        "Name": "Garden City British School",
+        "Country": "United Arab Emirates",
+        "City": "Al Ain",
+        "Website": "N/A"
+    },
+    {
+        "Count": 352,
+        "Name": "GEMS Founders School Al Mizhar",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsfoundersschool-mizhar.com/"
+    },
+    {
+        "Count": 353,
+        "Name": "Aqaba International School",
+        "Country": "Jordan",
+        "City": "N/A",
+        "Website": "https://www.aqabais.edu.jo"
+    },
+    {
+        "Count": 354,
+        "Name": "Newton International Academy Barwa City",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://niabarwacity.newtonschools.sch.qa/"
+    },
+    {
+        "Count": 355,
+        "Name": "Adhwaa Multinational Academy",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://mnariyadh.com/"
+    },
+    {
+        "Count": 356,
+        "Name": "The Ahliyyah School for Girls & Bishop's School for Boys",
+        "Country": "Jordan",
+        "City": "Amman",
+        "Website": "N/A"
+    },
+    {
+        "Count": 357,
+        "Name": "GEMS Wellington Academy, Al Khail",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.gemswellingtonacademy-alkhail.com/"
+    },
+    {
+        "Count": 358,
+        "Name": "GEMS Winchester School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemswinchesterschool-dubai.com/"
+    },
+    {
+        "Count": 359,
+        "Name": "Belgravia High School Doha",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.belgraviadoha.com/"
+    },
+    {
+        "Count": 360,
+        "Name": "German International School Sharjah",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.dssharjah.org/"
+    },
+    {
+        "Count": 361,
+        "Name": "Anglican International School Jerusalem",
+        "Country": "Israel",
+        "City": "N/A",
+        "Website": "https://www.aisj.co.il/"
+    },
+    {
+        "Count": 362,
+        "Name": "Kuwait English School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.kes.edu.kw/"
+    },
+    {
+        "Count": 363,
+        "Name": "GEMS American Academy Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.gemsamericanacademy-qatar.com/"
+    },
+    {
+        "Count": 364,
+        "Name": "My Little School International",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://mls.com.sa/"
+    },
+    {
+        "Count": 365,
+        "Name": "MySchool Oman",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://myschooloman.com/"
+    },
+    {
+        "Count": 366,
+        "Name": "Alpha Cambridge School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://acsqatar.net/"
+    },
+    {
+        "Count": 367,
+        "Name": "Nibras International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://nisdubai.ae/"
+    },
+    {
+        "Count": 368,
+        "Name": "The Asian School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://www.asianschool.bh/"
+    },
+    {
+        "Count": 369,
+        "Name": "Danah Universal School of Kuwait",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://dusk-kw.net/"
+    },
+    {
+        "Count": 370,
+        "Name": "Sharjah British International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.sharjahbritishinternationalschool.com/"
+    },
+    {
+        "Count": 371,
+        "Name": "English Academy",
+        "Country": "Kuwait",
+        "City": "Surra",
+        "Website": "N/A"
+    },
+    {
+        "Count": 372,
+        "Name": "Swiss International School Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.sisq.qa/"
+    },
+    {
+        "Count": 373,
+        "Name": "Compass International School Doha",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.nordangliaeducation.com/our-schools/doha/compass-international-school"
+    },
+    {
+        "Count": 374,
+        "Name": "Cambridge International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://cisqatar.net/"
+    },
+    {
+        "Count": 375,
+        "Name": "Star International School Altwar",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.starintlschoolaltwar.com/"
+    },
+    {
+        "Count": 376,
+        "Name": "The Bahrain Bayan School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://www.bayanschool.edu.bh/"
+    },
+    {
+        "Count": 377,
+        "Name": "Spectra Global School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.spectraschools.com/"
+    },
+    {
+        "Count": 378,
+        "Name": "The Arbor School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.thearborschool.ae/"
+    },
+    {
+        "Count": 379,
+        "Name": "Star International School Mirdiff",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.starmirdifschool.com/"
+    },
+    {
+        "Count": 380,
+        "Name": "Qatar Academy Al Wakra",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://qaw.edu.qa/home.html"
+    },
+    {
+        "Count": 381,
+        "Name": "Dubai International Academy Al Barsha",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.diabarsha.com/"
+    },
+    {
+        "Count": 382,
+        "Name": "Beaconhouse Private School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.beaconhouse-qrm.edu.om/"
+    },
+    {
+        "Count": 383,
+        "Name": "Olive International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://oliveschooldoha.com/"
+    },
+    {
+        "Count": 384,
+        "Name": "Canadian Bilingual School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.cbskuwait.com/"
+    },
+    {
+        "Count": 385,
+        "Name": "ISG Dammam School",
+        "Country": "Saudi Arabia",
+        "City": "Dammam",
+        "Website": "N/A"
+    },
+    {
+        "Count": 386,
+        "Name": "Dubai Modern Education School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.dmes.ae/edu/en/"
+    },
+    {
+        "Count": 387,
+        "Name": "Maplewood International School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://maplewood.school/"
+    },
+    {
+        "Count": 388,
+        "Name": "Multinational School Bahrain",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://mns-bahrain.com/"
+    },
+    {
+        "Count": 389,
+        "Name": "Mashrek International School",
+        "Country": "Jordan",
+        "City": "N/A",
+        "Website": "https://www.mashrek.edu.jo/"
+    },
+    {
+        "Count": 390,
+        "Name": "Al Salam Community School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.alsalamcommunity.ae/"
+    },
+    {
+        "Count": 391,
+        "Name": "The Apple International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://apple.sch.ae/"
+    },
+    {
+        "Count": 392,
+        "Name": "German International School Doha",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.ds-doha.de/en/"
+    },
+    {
+        "Count": 393,
+        "Name": "The Sultan's School",
+        "Country": "Oman",
+        "City": "N/A",
+        "Website": "https://www.sultansschool.edu.om"
+    },
+    {
+        "Count": 394,
+        "Name": "AL FARIS International School",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "https://alfarisschool.edu.sa/"
+    },
+    {
+        "Count": 395,
+        "Name": "The English Modern School Wakra",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.englishmodernschool.net/emswakra"
+    },
+    {
+        "Count": 396,
+        "Name": "The International School of Choueifat - Doha",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://iscdoha.sabis.net/"
+    },
+    {
+        "Count": 397,
+        "Name": "The British School Al Khubairat",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.britishschool.sch.ae/"
+    },
+    {
+        "Count": 398,
+        "Name": "Al Bayan Educational Complex for Girls",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 399,
+        "Name": "The Universal American School - Dubai",
+        "Country": "United Arab Emirates",
+        "City": "N/A",
+        "Website": "https://www.uasdubai.ae/"
+    },
+    {
+        "Count": 400,
+        "Name": "Al Rabeeh Academy",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://www.alrabeehac.ae"
+    },
+    {
+        "Count": 401,
+        "Name": "The International School of Choueifat - Al Ain",
+        "Country": "United Arab Emirates",
+        "City": "Al Ain",
+        "Website": "N/A"
+    },
+    {
+        "Count": 402,
+        "Name": "Abdulaziz International School Al-Sulaimaniah",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://aissulaimaniah.sabis.net/"
+    },
+    {
+        "Count": 403,
+        "Name": "Jeddah Prep and Grammar School",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "http://www.jpgs.org"
+    },
+    {
+        "Count": 404,
+        "Name": "Kuwait National English School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.knes.edu.kw/"
+    },
+    {
+        "Count": 405,
+        "Name": "American International School in Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.aisa.sch.ae/index.cfm"
+    },
+    {
+        "Count": 406,
+        "Name": "The Royal Grammar School Guildford In Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.rgsgq.com"
+    },
+    {
+        "Count": 407,
+        "Name": "Danah Universal School of Kuwait",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://dusk-kw.net/"
+    },
+    {
+        "Count": 408,
+        "Name": "Oaktree Primary School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.oaktreeprimary.com/"
+    },
+    {
+        "Count": 409,
+        "Name": "The Aquila School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.theaquilaschool.com/"
+    },
+    {
+        "Count": 410,
+        "Name": "AMA International School",
+        "Country": "Bahrain",
+        "City": "Salmabad",
+        "Website": "N/A"
+    },
+    {
+        "Count": 411,
+        "Name": "University Foundation College",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 412,
+        "Name": "The Universal American School-Kuwait",
+        "Country": "Kuwait",
+        "City": "Hawally",
+        "Website": "N/A"
+    },
+    {
+        "Count": 413,
+        "Name": "Stirling Education",
+        "Country": "Iraq",
+        "City": "Kurdistan",
+        "Website": "N/A"
+    },
+    {
+        "Count": 414,
+        "Name": "Al Rabeeh School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://www.alrabeeh.sch.ae/"
+    },
+    {
+        "Count": 415,
+        "Name": "Apple Green Private School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "http://www.applegreenschool.com/"
+    },
+    {
+        "Count": 416,
+        "Name": "The International School of Choueifat \u2013 Manama",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "N/A"
+    },
+    {
+        "Count": 417,
+        "Name": "Al-Bassam Schools",
+        "Country": "Saudi Arabia",
+        "City": "Dammam",
+        "Website": "N/A"
+    },
+    {
+        "Count": 418,
+        "Name": "GEMS World Academy Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsworldacademy-dubai.com/"
+    },
+    {
+        "Count": 419,
+        "Name": "OurPlanet International School Muscat",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "N/A"
+    },
+    {
+        "Count": 420,
+        "Name": "Ahliah School",
+        "Country": "Lebanon",
+        "City": "Beirut",
+        "Website": "N/A"
+    },
+    {
+        "Count": 421,
+        "Name": "Clarion School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 422,
+        "Name": "Eastern Mediterranean International School",
+        "Country": "Israel",
+        "City": "N/A",
+        "Website": "https://www.em-is.org/"
+    },
+    {
+        "Count": 423,
+        "Name": "Kip McGrath Education Centre",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "N/A"
+    },
+    {
+        "Count": 424,
+        "Name": "Arcadia School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 425,
+        "Name": "Learner's World International Schools",
+        "Country": "Lebanon",
+        "City": "N/A",
+        "Website": "https://www.lwis-hazmieh.com"
+    },
+    {
+        "Count": 426,
+        "Name": "Qatar Academy Al Khor",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://qak.edu.qa/"
+    },
+    {
+        "Count": 427,
+        "Name": "British International Academy (BIA)",
+        "Country": "Jordan",
+        "City": "N/A",
+        "Website": "https://www.bia.edu.jo"
+    },
+    {
+        "Count": 428,
+        "Name": "Vision International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.vis.qa/"
+    },
+    {
+        "Count": 429,
+        "Name": "German International School Beirut",
+        "Country": "Lebanon",
+        "City": "N/A",
+        "Website": "https://www.dsb.edu.lb/"
+    },
+    {
+        "Count": 430,
+        "Name": "Al Mahd International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://amis.qa/"
+    },
+    {
+        "Count": 431,
+        "Name": "Sunmarke School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.sunmarke.com/"
+    },
+    {
+        "Count": 432,
+        "Name": "Our Own High School, Al Warqa",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsoo-alwarqa.com/"
+    },
+    {
+        "Count": 433,
+        "Name": "Doha English Speaking School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 434,
+        "Name": "Deutsche Internationale Schule Riad",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://en.disr.edu.sa/"
+    },
+    {
+        "Count": 435,
+        "Name": "Dream International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "http://dream-schools.com.sa/"
+    },
+    {
+        "Count": 436,
+        "Name": "The International School of Choueifat \u2013 Abu Dhabi Khalifa City",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "N/A"
+    },
+    {
+        "Count": 437,
+        "Name": "Bahrain Indian School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://bhavansbahrain.com/"
+    },
+    {
+        "Count": 438,
+        "Name": "Doha Academy",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.dohaacademy.sch.qa/"
+    },
+    {
+        "Count": 439,
+        "Name": "Creative British School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.cbsabudhabi.com/"
+    },
+    {
+        "Count": 440,
+        "Name": "TLC International School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.tlcoman.edu.om/"
+    },
+    {
+        "Count": 441,
+        "Name": "The English Modern School Khor",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.englishmodernschool.net/emskhor/"
+    },
+    {
+        "Count": 442,
+        "Name": "Asamiah International School",
+        "Country": "Jordan",
+        "City": "N/A",
+        "Website": "https://ais.edu.jo/en/Home"
+    },
+    {
+        "Count": 443,
+        "Name": "Cambridge English School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://cambridge-kw.com/"
+    },
+    {
+        "Count": 444,
+        "Name": "Al Rawabi Private School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://alrawabi.edu.bh/"
+    },
+    {
+        "Count": 445,
+        "Name": "INTERNATIONAL MAARIF SCHOOLS ERBIL",
+        "Country": "Iraq",
+        "City": "N/A",
+        "Website": "http://maarifschools.edu.krd"
+    },
+    {
+        "Count": 446,
+        "Name": "GEMS First Point School - The Villa",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsfirstpointschool-dubai.com"
+    },
+    {
+        "Count": 447,
+        "Name": "International School of Creative Science, Nad Al Sheba",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://iscs.sch.ae/en/nad-al-sheba"
+    },
+    {
+        "Count": 448,
+        "Name": "Doha College",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.dohacollege.com/"
+    },
+    {
+        "Count": 449,
+        "Name": "Tehran International School",
+        "Country": "Iran",
+        "City": "N/A",
+        "Website": "https://www.tissch.ir/"
+    },
+    {
+        "Count": 450,
+        "Name": "Dwight School Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.dwightschooldubai.ae/"
+    },
+    {
+        "Count": 451,
+        "Name": "SABIS\u00c2\u00ae International School \u2013 Yas Island",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "N/A"
+    },
+    {
+        "Count": 452,
+        "Name": "Cambridge English School Hawally",
+        "Country": "Kuwait",
+        "City": "N/A",
+        "Website": "http://www.marefa-education.com"
+    },
+    {
+        "Count": 453,
+        "Name": "Liwa International School Al Mushrif",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://lism.ae/"
+    },
+    {
+        "Count": 454,
+        "Name": "The American International School of Muscat",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "N/A"
+    },
+    {
+        "Count": 455,
+        "Name": "Dubai College",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.dubaicollege.org/"
+    },
+    {
+        "Count": 456,
+        "Name": "Al Ghanim Bilingual School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.gbs.edu.kw/"
+    },
+    {
+        "Count": 457,
+        "Name": "Dar Al Marefa Private School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.daralmarefa.ae/"
+    },
+    {
+        "Count": 458,
+        "Name": "GEMS Royal Dubai School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.royaldubaischool.com/"
+    },
+    {
+        "Count": 459,
+        "Name": "The Bahrain Bayan School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://www.bayanschool.edu.bh/"
+    },
+    {
+        "Count": 460,
+        "Name": "The English School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.tes.edu.kw/"
+    },
+    {
+        "Count": 461,
+        "Name": "Rowad Al Khaleej International School Riyadh",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://www.rowad-alkhaleej.edu.sa/"
+    },
+    {
+        "Count": 462,
+        "Name": "Cambridge English School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://cambridge-kw.com/"
+    },
+    {
+        "Count": 463,
+        "Name": "Lyc\u00e9e Bonaparte",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://eole.lycee-bonaparte.fr/"
+    },
+    {
+        "Count": 464,
+        "Name": "Beta Cambridge School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.betacambridge.com/"
+    },
+    {
+        "Count": 465,
+        "Name": "Al Mustaqbal School",
+        "Country": "Palestinian",
+        "City": "Ramallah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 466,
+        "Name": "Beaconhouse Private School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.beaconhouse-qrm.edu.om/"
+    },
+    {
+        "Count": 467,
+        "Name": "Amman Baccalaureate School",
+        "Country": "Jordan",
+        "City": "Amman",
+        "Website": "N/A"
+    },
+    {
+        "Count": 468,
+        "Name": "The City School International",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.thecityschool.sch.ae"
+    },
+    {
+        "Count": 469,
+        "Name": "German International School Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.gisad.ae/"
+    },
+    {
+        "Count": 470,
+        "Name": "Stirling Education",
+        "Country": "Iraq",
+        "City": "Kurdistan",
+        "Website": "N/A"
+    },
+    {
+        "Count": 471,
+        "Name": "Cheltenham Muscat",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://cheltenhammuscat.com/"
+    },
+    {
+        "Count": 472,
+        "Name": "The Royal Grammar School Guildford",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 473,
+        "Name": "GEMS Jumeirah Primary School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.jumeirahprimaryschool.com/"
+    },
+    {
+        "Count": 474,
+        "Name": "International School of Creative Science, Nad Al Sheba",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://iscs.sch.ae/en/nad-al-sheba"
+    },
+    {
+        "Count": 475,
+        "Name": "American Academy School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://americanacademy.sch.qa/"
+    },
+    {
+        "Count": 476,
+        "Name": "Ma'arif Education",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 477,
+        "Name": "GEMS American Academy Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.gemsamericanacademy-qatar.com/"
+    },
+    {
+        "Count": 478,
+        "Name": "The Royal Grammar School Guildford In Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.rgsgq.com"
+    },
+    {
+        "Count": 479,
+        "Name": "Modern International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "http://www.misriyadh.com/"
+    },
+    {
+        "Count": 480,
+        "Name": "Givat Haviva International School",
+        "Country": "Israel",
+        "City": "N/A",
+        "Website": "https://www.gh-is.org"
+    },
+    {
+        "Count": 481,
+        "Name": "Amjad International Academy",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://amjadacademy.qa/english/"
+    },
+    {
+        "Count": 482,
+        "Name": "Al-Hayat International School (HIS)",
+        "Country": "Lebanon",
+        "City": "N/A",
+        "Website": "https://www.his.edu.lb"
+    },
+    {
+        "Count": 483,
+        "Name": "Dove Green Private School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://dovegreenschool.com/"
+    },
+    {
+        "Count": 484,
+        "Name": "Advanced Learning Schools",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://www.alsschools.com/"
+    },
+    {
+        "Count": 485,
+        "Name": "Hartland International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.hartlandinternational.com/"
+    },
+    {
+        "Count": 486,
+        "Name": "Sharjah English School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.sharjahenglishschool.org/"
+    },
+    {
+        "Count": 487,
+        "Name": "Deutsche Internationale Schule Riad",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://en.disr.edu.sa/"
+    },
+    {
+        "Count": 488,
+        "Name": "Gulf British Academy",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.gulfbritishacademy.com/"
+    },
+    {
+        "Count": 489,
+        "Name": "GEMS Cambridge International School Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.gemscambridgeinternationalschool-abudhabi.com/"
+    },
+    {
+        "Count": 490,
+        "Name": "Riverston School Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.riverstonschool.com/"
+    },
+    {
+        "Count": 491,
+        "Name": "Al Dhafra Private School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://abu-dhabi.dhafraschools.com/"
+    },
+    {
+        "Count": 492,
+        "Name": "Eastwood International School",
+        "Country": "Lebanon",
+        "City": "N/A",
+        "Website": "http://eastwoodschools.com"
+    },
+    {
+        "Count": 493,
+        "Name": "American School of Bahrain",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://www.asb.bh/"
+    },
+    {
+        "Count": 494,
+        "Name": "Oryx International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 495,
+        "Name": "Almeena International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://www.almeena-school.com/en/"
+    },
+    {
+        "Count": 496,
+        "Name": "Newton International School D-Ring Road",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://nisdring.newtonschools.sch.qa/"
+    },
+    {
+        "Count": 497,
+        "Name": "British International Academy (BIA)",
+        "Country": "Jordan",
+        "City": "N/A",
+        "Website": "https://www.bia.edu.jo"
+    },
+    {
+        "Count": 498,
+        "Name": "OURPLANET International School Muscat",
+        "Country": "Oman",
+        "City": "N/A",
+        "Website": "https://www.ourplanet-muscat.com"
+    },
+    {
+        "Count": 499,
+        "Name": "The International School of Choueifat \u2013 Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 500,
+        "Name": "Cambridge English School Hawally",
+        "Country": "Kuwait",
+        "City": "N/A",
+        "Website": "http://www.marefa-education.com"
+    },
+    {
+        "Count": 501,
+        "Name": "GEMS Wellington International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.wellingtoninternationalschool.com/"
+    },
+    {
+        "Count": 502,
+        "Name": "International Concept for Education",
+        "Country": "United Arab Emirates",
+        "City": "N/A",
+        "Website": "http://icedubai.org"
+    },
+    {
+        "Count": 503,
+        "Name": "The Apple International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://apple.sch.ae/"
+    },
+    {
+        "Count": 504,
+        "Name": "International Academic School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://ias.sch.ae/"
+    },
+    {
+        "Count": 505,
+        "Name": "Apple Green Private School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "http://www.applegreenschool.com/"
+    },
+    {
+        "Count": 506,
+        "Name": "GEMS Wellington Academy Al Khail",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemswellingtonacademy-alkhail.com/"
+    },
+    {
+        "Count": 507,
+        "Name": "International Community School - City Centre Campus",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.icschool-uae.com/index.php/en/ics-najda"
+    },
+    {
+        "Count": 508,
+        "Name": "Ecole Francaise Internationale de Riyad",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://www.efiriyad.com/"
+    },
+    {
+        "Count": 509,
+        "Name": "The English Academy, Kuwait",
+        "Country": "Kuwait",
+        "City": "N/A",
+        "Website": "http://www.tea.edu.kw"
+    },
+    {
+        "Count": 510,
+        "Name": "American Creativity Academy",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://www.aca.edu.kw/"
+    },
+    {
+        "Count": 511,
+        "Name": "Al-Ra'ed Al-Arabi School",
+        "Country": "Jordan",
+        "City": "Amman",
+        "Website": "N/A"
+    },
+    {
+        "Count": 512,
+        "Name": "St. Mary's Catholic High School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.stmarysdubai.com/"
+    },
+    {
+        "Count": 513,
+        "Name": "Emirates International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 514,
+        "Name": "The Winchester School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.thewinchesterschool.com/"
+    },
+    {
+        "Count": 515,
+        "Name": "Al Khor International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 516,
+        "Name": "Pearling Season International School",
+        "Country": "Qatar",
+        "City": "N/A",
+        "Website": "http://www.psisd.com.qa"
+    },
+    {
+        "Count": 517,
+        "Name": "British School Muscat",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.britishschoolmuscat.com/"
+    },
+    {
+        "Count": 518,
+        "Name": "Manarat School-Kuwait",
+        "Country": "Kuwait",
+        "City": "Salmiya",
+        "Website": "N/A"
+    },
+    {
+        "Count": 519,
+        "Name": "Dubai English Speaking School/College",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.dessdubai.com"
+    },
+    {
+        "Count": 520,
+        "Name": "Summit International School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.summitinternationalschool.com/"
+    },
+    {
+        "Count": 521,
+        "Name": "Down House Muscat",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://downehousemuscat.com/"
+    },
+    {
+        "Count": 522,
+        "Name": "GEMS American Academy Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.gemsaa-abudhabi.com/"
+    },
+    {
+        "Count": 523,
+        "Name": "Qatar Academy Al-Khor",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 524,
+        "Name": "The International School of Choueifat \u2013 Ras Al Khaimah",
+        "Country": "United Arab Emirates",
+        "City": "Ras al Khaimah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 525,
+        "Name": "ACS Doha International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.acs-schools.com/doha"
+    },
+    {
+        "Count": 526,
+        "Name": "Amity Private School Sharjah",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://amitysharjah.com/"
+    },
+    {
+        "Count": 527,
+        "Name": "SEK International School Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.sek.qa/"
+    },
+    {
+        "Count": 528,
+        "Name": "Doha British School Rawdat Al-Hamama",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://dbsrawdat.com/"
+    },
+    {
+        "Count": 529,
+        "Name": "Arcadia School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 530,
+        "Name": "The American International School of Muscat",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.taism.com/"
+    },
+    {
+        "Count": 531,
+        "Name": "Star International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.starintlschoolaltwar.com"
+    },
+    {
+        "Count": 532,
+        "Name": "King's Academy",
+        "Country": "Jordan",
+        "City": "Manja",
+        "Website": "N/A"
+    },
+    {
+        "Count": 533,
+        "Name": "Greenfield International School",
+        "Country": "United Arab Emirates",
+        "City": "N/A",
+        "Website": "https://www.gischool.ae/"
+    },
+    {
+        "Count": 534,
+        "Name": "RAK Academy",
+        "Country": "United Arab Emirates",
+        "City": "Ras Al Khaimah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 535,
+        "Name": "Loydence Academy",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://www.loydenceacademy.com/"
+    },
+    {
+        "Count": 536,
+        "Name": "Nahda Academy",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "http://nahda-academy.edu.sa"
+    },
+    {
+        "Count": 537,
+        "Name": "Al Raneem Private School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "http://www.wpschool.edu.om/"
+    },
+    {
+        "Count": 538,
+        "Name": "APG School",
+        "Country": "Bahrain",
+        "City": "Khamis",
+        "Website": "N/A"
+    },
+    {
+        "Count": 539,
+        "Name": "The Learning Caravan International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://www.tlc-riyadh.com/"
+    },
+    {
+        "Count": 540,
+        "Name": "The Sheikh Zayed Private Academy for Boys",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://szpag.com/"
+    },
+    {
+        "Count": 541,
+        "Name": "Dubai English Speaking School And College",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.descdubai.com"
+    },
+    {
+        "Count": 542,
+        "Name": "Kuwait English School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.kes.edu.kw/"
+    },
+    {
+        "Count": 543,
+        "Name": "Doha British School",
+        "Country": "Qatar",
+        "City": "N/A",
+        "Website": "https://www.dohabritishschool.com/"
+    },
+    {
+        "Count": 544,
+        "Name": "Creative Children International School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.ccis-kuwait.com/"
+    },
+    {
+        "Count": 545,
+        "Name": "Nord Anglia International School Al Khor",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.nordangliaeducation.com/our-schools/al-khor"
+    },
+    {
+        "Count": 546,
+        "Name": "Reach British School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.reachbritishschool.com/"
+    },
+    {
+        "Count": 547,
+        "Name": "Australian International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.ais.ae/"
+    },
+    {
+        "Count": 548,
+        "Name": "International School of Choueifat \u2013 Erbil",
+        "Country": "Iraq",
+        "City": "Kurdistan",
+        "Website": "N/A"
+    },
+    {
+        "Count": 549,
+        "Name": "Kuwait National English School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.knes.edu.kw/"
+    },
+    {
+        "Count": 550,
+        "Name": "OurPlanet International School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://ourplanet-muscat.com/"
+    },
+    {
+        "Count": 551,
+        "Name": "GEMS Westminster School Sharjah",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemswestminsterschool-sharjah.com/"
+    },
+    {
+        "Count": 552,
+        "Name": "Eastwood International School",
+        "Country": "Lebanon",
+        "City": "N/A",
+        "Website": "http://eastwoodschools.com"
+    },
+    {
+        "Count": 553,
+        "Name": "The Cambridge School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 554,
+        "Name": "New Generation Private School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://ngisbahrain.com/"
+    },
+    {
+        "Count": 555,
+        "Name": "A'Takamul International School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.atakamul.edu.kw/"
+    },
+    {
+        "Count": 556,
+        "Name": "Amity International School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://amityabudhabi.com"
+    },
+    {
+        "Count": 557,
+        "Name": "Sunmarke School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.sunmarke.com/"
+    },
+    {
+        "Count": 558,
+        "Name": "Bright Riders School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.brightriders.ae/"
+    },
+    {
+        "Count": 559,
+        "Name": "Nibras International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://nisdubai.ae/"
+    },
+    {
+        "Count": 560,
+        "Name": "GEMS Winchester School Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.gemswinchesterschool-abudhabi.com/"
+    },
+    {
+        "Count": 561,
+        "Name": "Ambassador International Academy",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://aiadubai.com/"
+    },
+    {
+        "Count": 562,
+        "Name": "Al Yasmina School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "http://www.alyasmina.sch.ae"
+    },
+    {
+        "Count": 563,
+        "Name": "Dubai International Academy, Al Barsha",
+        "Country": "United Arab Emirates",
+        "City": "N/A",
+        "Website": "https://www.diabarsha.com"
+    },
+    {
+        "Count": 564,
+        "Name": "American International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.aisch.ae/"
+    },
+    {
+        "Count": 565,
+        "Name": "Fujairah Private Academy",
+        "Country": "United Arab Emirates",
+        "City": "Fujairah",
+        "Website": "http://www.fpa.sch.ae"
+    },
+    {
+        "Count": 566,
+        "Name": "GEMS Metropole School - Motor City",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsmetropoleschool-dubai.com/"
+    },
+    {
+        "Count": 567,
+        "Name": "Aspire Academy School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 568,
+        "Name": "Victoria English School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://victoriaenglishschools.com/"
+    },
+    {
+        "Count": 569,
+        "Name": "Down House Muscat",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://downehousemuscat.com/"
+    },
+    {
+        "Count": 570,
+        "Name": "Aqaba International School",
+        "Country": "Jordan",
+        "City": "N/A",
+        "Website": "https://www.aqabais.edu.jo"
+    },
+    {
+        "Count": 571,
+        "Name": "Repton School, Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.reptonabudhabi.org/"
+    },
+    {
+        "Count": 572,
+        "Name": "SABIS\u00c2\u00ae International School \u2013 Yas Island",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "N/A"
+    },
+    {
+        "Count": 573,
+        "Name": "Doha British School",
+        "Country": "Qatar",
+        "City": "N/A",
+        "Website": "https://www.dohabritishschool.com/"
+    },
+    {
+        "Count": 574,
+        "Name": "Horizon International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.hisdubai.ae/"
+    },
+    {
+        "Count": 575,
+        "Name": "Jumeirah College",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsjc.com/"
+    },
+    {
+        "Count": 576,
+        "Name": "Regent International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://risdubai.com/"
+    },
+    {
+        "Count": 577,
+        "Name": "The International School of Choueifat \u2013 Ras Al Khaimah",
+        "Country": "United Arab Emirates",
+        "City": "Ras al Khaimah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 578,
+        "Name": "Wesgreen International School",
+        "Country": "United Arab Emirates",
+        "City": "Sharjah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 579,
+        "Name": "GEMS Metropole School Motor City",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.gemsmetropoleschool-dubai.com"
+    },
+    {
+        "Count": 580,
+        "Name": "Arabian Pearl Gulf School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://www.apgschool.com/"
+    },
+    {
+        "Count": 581,
+        "Name": "JESS Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.jess.sch.ae"
+    },
+    {
+        "Count": 582,
+        "Name": "Radhwa International School Yanbu",
+        "Country": "Saudi Arabia",
+        "City": "N/A",
+        "Website": "https://radhwa.org"
+    },
+    {
+        "Count": 583,
+        "Name": "The English Academy",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.tea.edu.kw/"
+    },
+    {
+        "Count": 584,
+        "Name": "Creativity International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://creativityschools.net/"
+    },
+    {
+        "Count": 585,
+        "Name": "The Universal American School - Dubai",
+        "Country": "United Arab Emirates",
+        "City": "N/A",
+        "Website": "https://www.uasdubai.ae/"
+    },
+    {
+        "Count": 586,
+        "Name": "The American United School of Kuwait",
+        "Country": "Kuwait",
+        "City": "Sabah Al Salem",
+        "Website": "N/A"
+    },
+    {
+        "Count": 587,
+        "Name": "Newton International School West Bay",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://niswestbay.newtonschools.sch.qa/"
+    },
+    {
+        "Count": 588,
+        "Name": "Dunecrest American School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.dunecrest.ae/"
+    },
+    {
+        "Count": 589,
+        "Name": "Step One International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 590,
+        "Name": "Wellspring Learning Community",
+        "Country": "Lebanon",
+        "City": "Beirut",
+        "Website": "N/A"
+    },
+    {
+        "Count": 591,
+        "Name": "Loydence Academy",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://www.loydenceacademy.com/"
+    },
+    {
+        "Count": 592,
+        "Name": "Nord Anglia International School Al Khor",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.nordangliaeducation.com/our-schools/al-khor"
+    },
+    {
+        "Count": 593,
+        "Name": "Sharjah American International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://www.saisdubai.net/"
+    },
+    {
+        "Count": 594,
+        "Name": "Bangladesh School Muscat",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "http://www.bdschoolmuscat.com/"
+    },
+    {
+        "Count": 595,
+        "Name": "Belgravia High School Doha",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.belgraviadoha.com/"
+    },
+    {
+        "Count": 596,
+        "Name": "Oryx International School, Doha",
+        "Country": "Qatar",
+        "City": "N/A",
+        "Website": "http://oryxschool.qa/"
+    },
+    {
+        "Count": 597,
+        "Name": "Al Maha Academy For Girls",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "http://girls.almahaacademy.com.qa/"
+    },
+    {
+        "Count": 598,
+        "Name": "South View School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://southviewschool.com/"
+    },
+    {
+        "Count": 599,
+        "Name": "Kidz World Kindergarten",
+        "Country": "Bahrain",
+        "City": "Adliya",
+        "Website": "N/A"
+    },
+    {
+        "Count": 600,
+        "Name": "Spectra Global School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.spectraschools.com/"
+    },
+    {
+        "Count": 601,
+        "Name": "Raha International School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.ris.ae/"
+    },
+    {
+        "Count": 602,
+        "Name": "AMA International School",
+        "Country": "Bahrain",
+        "City": "Salmabad",
+        "Website": "N/A"
+    },
+    {
+        "Count": 603,
+        "Name": "ACS International School Doha",
+        "Country": "Qatar",
+        "City": "N/A",
+        "Website": "https://www.acs-schools.com/doha"
+    },
+    {
+        "Count": 604,
+        "Name": "As Seeb International School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "N/A"
+    },
+    {
+        "Count": 605,
+        "Name": "Iqra'a Bilingual School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.iqraa.edu.kw/"
+    },
+    {
+        "Count": 606,
+        "Name": "Wales International School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://walesschool.com/"
+    },
+    {
+        "Count": 607,
+        "Name": "The Learning Caravan International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://www.tlc-riyadh.com/"
+    },
+    {
+        "Count": 608,
+        "Name": "The Hamilton International School",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://hamiltoninternationalschool.qa/"
+    },
+    {
+        "Count": 609,
+        "Name": "Al Shohub Private School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://alshohub.org/"
+    },
+    {
+        "Count": 610,
+        "Name": "American Lyceum International School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.lyceumgroupofschools.com/muscat"
+    },
+    {
+        "Count": 611,
+        "Name": "Dome International Schools",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://dome.edu.sa/"
+    },
+    {
+        "Count": 612,
+        "Name": "Creativity Private School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://www.cps-bh.com/Home.htm"
+    },
+    {
+        "Count": 613,
+        "Name": "Arab Unity School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 614,
+        "Name": "Future Bilingual School",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "https://www.fbs.edu.kw/"
+    },
+    {
+        "Count": 615,
+        "Name": "Sana'a British School",
+        "Country": "Yemen",
+        "City": "N/A",
+        "Website": "http://www.sbsyemen.org"
+    },
+    {
+        "Count": 616,
+        "Name": "Qatar Academy",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 617,
+        "Name": "Ambassador International Academy",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://aiadubai.com/"
+    },
+    {
+        "Count": 618,
+        "Name": "Doha British School",
+        "Country": "Qatar",
+        "City": "N/A",
+        "Website": "https://www.dohabritishschool.com/"
+    },
+    {
+        "Count": 619,
+        "Name": "Bahrain Indian School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "http://bhavansbahrain.com/"
+    },
+    {
+        "Count": 620,
+        "Name": "JSS Private School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "http://jsspsdubai.com/"
+    },
+    {
+        "Count": 621,
+        "Name": "Bangladesh School Muscat",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "http://www.bdschoolmuscat.com/"
+    },
+    {
+        "Count": 622,
+        "Name": "APG School",
+        "Country": "Bahrain",
+        "City": "Khamis",
+        "Website": "N/A"
+    },
+    {
+        "Count": 623,
+        "Name": "Mehr-e-Taban International School",
+        "Country": "Iran",
+        "City": "N/A",
+        "Website": "http://mehrschool.com"
+    },
+    {
+        "Count": 624,
+        "Name": "Nadeen School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://www.nadeenschool.com/"
+    },
+    {
+        "Count": 625,
+        "Name": "Modern Knowledge School",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://www.mks.edu.bh/"
+    },
+    {
+        "Count": 626,
+        "Name": "Amity International School Abu Dhabi",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://amityabudhabi.com/"
+    },
+    {
+        "Count": 627,
+        "Name": "Yara International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://www.yaraschool.net/"
+    },
+    {
+        "Count": 628,
+        "Name": "My Little School International",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://mls.com.sa/"
+    },
+    {
+        "Count": 629,
+        "Name": "American School of Bahrain",
+        "Country": "Bahrain",
+        "City": "Manama",
+        "Website": "https://www.asb.bh/"
+    },
+    {
+        "Count": 630,
+        "Name": "British International Academy (BIA)",
+        "Country": "Jordan",
+        "City": "N/A",
+        "Website": "https://www.bia.edu.jo"
+    },
+    {
+        "Count": 631,
+        "Name": "Swiss International School Qatar",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.sisq.qa/"
+    },
+    {
+        "Count": 632,
+        "Name": "International Community School - Mushrif Campus",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.icschool-uae.com/index.php/en/ics-almushrif"
+    },
+    {
+        "Count": 633,
+        "Name": "North London Collegiate School Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.nlcsdubai.ae/"
+    },
+    {
+        "Count": 634,
+        "Name": "GEMS Founders School Al Mizhar",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.gemsfoundersschool-mizhar.com/"
+    },
+    {
+        "Count": 635,
+        "Name": "Oman Private School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "http://omanprivateschool.com/"
+    },
+    {
+        "Count": 636,
+        "Name": "Dukhan English School",
+        "Country": "Qatar",
+        "City": "N/A",
+        "Website": "http://des.com.qa/Pages/Home_3.aspx"
+    },
+    {
+        "Count": 637,
+        "Name": "Dubai International Academy",
+        "Country": "United Arab Emirates",
+        "City": "N/A",
+        "Website": "https://www.diadubai.com"
+    },
+    {
+        "Count": 638,
+        "Name": "Sunrise International School",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "http://sunrise.edu.sa/sr/"
+    },
+    {
+        "Count": 639,
+        "Name": "Dubai International Academy, Al Barsha",
+        "Country": "United Arab Emirates",
+        "City": "N/A",
+        "Website": "https://www.diabarsha.com"
+    },
+    {
+        "Count": 640,
+        "Name": "Ajman Academy",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.ajmanacademy.com/"
+    },
+    {
+        "Count": 641,
+        "Name": "Credence High School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.credencehighschool.com/"
+    },
+    {
+        "Count": 642,
+        "Name": "Dubai English Speaking School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.dessc.sch.ae/dess/welcome-from-the-headteacher"
+    },
+    {
+        "Count": 643,
+        "Name": "Reach British School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://www.reachbritishschool.com/"
+    },
+    {
+        "Count": 644,
+        "Name": "Abu Dhabi International School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://aisschools.com/"
+    },
+    {
+        "Count": 645,
+        "Name": "Bright Riders School Dubai",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://brightridersdubai.com/"
+    },
+    {
+        "Count": 646,
+        "Name": "Global Academy International",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://www.gaiqatar.com/"
+    },
+    {
+        "Count": 647,
+        "Name": "American-British Academy",
+        "Country": "Oman",
+        "City": "MUSCAT",
+        "Website": "N/A"
+    },
+    {
+        "Count": 648,
+        "Name": "The American United School of Kuwait",
+        "Country": "Kuwait",
+        "City": "Sabah Al Salem",
+        "Website": "N/A"
+    },
+    {
+        "Count": 649,
+        "Name": "GEMS Metropole School, Motor City",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "N/A"
+    },
+    {
+        "Count": 650,
+        "Name": "University Foundation College",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "N/A"
+    },
+    {
+        "Count": 651,
+        "Name": "Muscat International School",
+        "Country": "Oman",
+        "City": "Muscat",
+        "Website": "https://www.mis.edu.om/"
+    },
+    {
+        "Count": 652,
+        "Name": "Salalah International School",
+        "Country": "Oman",
+        "City": "Salalah",
+        "Website": "N/A"
+    },
+    {
+        "Count": 653,
+        "Name": "Doha British School Rawdat Al-Hamama",
+        "Country": "Qatar",
+        "City": "Doha",
+        "Website": "https://dbsrawdat.com/"
+    },
+    {
+        "Count": 654,
+        "Name": "The English School Fahaheel",
+        "Country": "Kuwait",
+        "City": "Kuwait",
+        "Website": "http://www.skee.com/"
+    },
+    {
+        "Count": 655,
+        "Name": "Al Hekma International School",
+        "Country": "Bahrain",
+        "City": "Adliya",
+        "Website": "N/A"
+    },
+    {
+        "Count": 656,
+        "Name": "Fairgreen International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.fairgreen.ae/"
+    },
+    {
+        "Count": 657,
+        "Name": "Abu Dhabi International School",
+        "Country": "United Arab Emirates",
+        "City": "Abu Dhabi",
+        "Website": "https://aisschools.com/"
+    },
+    {
+        "Count": 658,
+        "Name": "British International Schools in Kurdistan - Hawler",
+        "Country": "Iraq",
+        "City": "Kurdistan",
+        "Website": "N/A"
+    },
+    {
+        "Count": 659,
+        "Name": "Manarat School-Kuwait",
+        "Country": "Kuwait",
+        "City": "Salmiya",
+        "Website": "N/A"
+    },
+    {
+        "Count": 660,
+        "Name": "King's Academy",
+        "Country": "Jordan",
+        "City": "Manja",
+        "Website": "N/A"
+    },
+    {
+        "Count": 661,
+        "Name": "Canadian International School - Amman",
+        "Country": "Jordan",
+        "City": "N/A",
+        "Website": "https://www.cis.edu.jo"
+    },
+    {
+        "Count": 662,
+        "Name": "Deira International School",
+        "Country": "United Arab Emirates",
+        "City": "Dubai",
+        "Website": "https://www.disdubai.ae/home"
+    },
+    {
+        "Count": 663,
+        "Name": "Adhwaa Multinational Academy",
+        "Country": "Saudi Arabia",
+        "City": "Riyadh",
+        "Website": "https://mnariyadh.com/"
+    },
+    {
+        "Count": 664,
+        "Name": "Rawabi English Academy",
+        "Country": "Palestinian",
+        "City": "Rawabi",
+        "Website": "N/A"
+    }
+]
