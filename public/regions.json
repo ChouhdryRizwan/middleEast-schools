@@ -1,0 +1,35 @@
+[
+    {
+      "region_name": "Asia",
+      "region_code": "AS"
+    },
+    {
+      "region_name": "Africa",
+      "region_code": "AF"
+    },
+    {
+      "region_name": "Central America",
+      "region_code": "CA"
+    },
+    {
+      "region_name": "Europe",
+      "region_code": "EU"
+    },
+    {
+      "region_name": "Middle East",
+      "region_code": "ME"
+    },
+    {
+      "region_name": "North America",
+      "region_code": "NA"
+    },
+    {
+      "region_name": "Oceania",
+      "region_code": "OC"
+    },
+    {
+      "region_name": "South America",
+      "region_code": "SA"
+    }
+  ]
+  
